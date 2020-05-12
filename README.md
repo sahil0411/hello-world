@@ -1,2 +1,2 @@
 # hello-world
-first project
+print("Hello world")
